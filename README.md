@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFhZ2VsYWg3ejZpMGJ1c24xOHRpbWZsMXBwbG52angydmNkdnljZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="500" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwyMXc5dmh0MDAyNHk2a3p3end5c2xwa2N4amFkbjN2MmgxMG9kayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" width="600" />
   <br>
   𝙑𝙚𝙧𝙞𝙩𝙮𝙮 - 𝙉𝙞𝙠𝙠𝙞
 </p>
