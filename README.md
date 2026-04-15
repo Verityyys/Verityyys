@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZnZHBmajZqZ3B5enVtYjdjYWQwOGM4cjV0eTJuazBvMTRleWQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" />
+</p>
 <!--
 **Verityyys/Verityyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
