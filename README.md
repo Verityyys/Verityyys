@@ -1,5 +1,8 @@
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZnZHBmajZqZ3B5enVtYjdjYWQwOGM4cjV0eTJuazBvMTRleWQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFhZ2VsYWg3ejZpMGJ1c24xOHRpbWZsMXBwbG52angydmNkdnljZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="500" />
+  <br>
+  𝙑𝙚𝙧𝙞𝙩𝙮𝙮 - 𝙉𝙞𝙠𝙠𝙞
 </p>
 <!--
 **Verityyys/Verityyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
