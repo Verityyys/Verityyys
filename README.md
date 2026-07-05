@@ -2,8 +2,7 @@
   𝙑𝙚𝙧𝙞𝙩𝙮𝙮 - 𝙉𝙞𝙠𝙠𝙞
 </p>
 
-<a href="#void"><img src="./fishfingers.png.jpeg" width="250" style="opacity: 0.6; border: 2px solid #555; border-radius: 8px; padding: 4px;" alt="Fish Fingers Comic"></a>
-<!--
+
 **Verityyys/Verityyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
