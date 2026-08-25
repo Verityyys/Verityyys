@@ -1,7 +1,8 @@
 <br>
  𝙉𝙞𝙠𝙠𝙞
 </p>
+<img src="https://github.com/user-attachments/assets/7378cd24-ea7c-4645-b6dd-cf62ea4ab2cb" alt="want sum fih fingers" width="300" />
 
-<img width="1284" height="588" alt="uhhuehruhredhairguyyy" src="https://github.com/user-attachments/assets/e8c77c60-8c65-4a87-a0ca-b81b3740a405" />
-
-
+<br>
+Just uh, random drawing.
+</p>
